@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
@@ -58,22 +58,22 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/login.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/fragrance081/Chat-web-app-by-mern/blob/main/screenshots/add%20rem.PNG)
 
-## Made By
+## Made By -
 
 - [@hariom081](https://github.com/fragrance081)
 
